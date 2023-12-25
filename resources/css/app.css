@@ -1,3 +1,24 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed:wght@100;200;300;400;500;600;700;800;900&family=Herr+Von+Muellerhoff&family=Yeseva+One&display=swap');    margin: 0;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+.nav-item.active {
+    border-bottom: 3px solid #000;
+}
+
+.heading-title {
+    font-family: 'Yeseva One', serif;
+}
+p {
+    font-family: 'Encode Sans Condensed', sans-serif;
+}
+.signature {
+    font-family: 'Herr Von Muellerhoff', cursive !important;
+}

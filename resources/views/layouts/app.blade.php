@@ -8,9 +8,7 @@
     @include('layouts.sections.styles')
 </head>
 <body>
-    @include('layouts.sections.header')
-    @yield('content')
-    @include('layouts.sections.footer')
+    <div id="root"></div>
     @include('layouts.sections.scripts')
 </body>
 </html>

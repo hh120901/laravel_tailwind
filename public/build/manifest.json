@@ -1,11 +1,35 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-Xar22tue.css",
+    "file": "assets/app-XZ_bXQUq.css",
     "isEntry": true,
     "src": "resources/css/app.css"
   },
+  "resources/images/img1.png": {
+    "file": "assets/img1-gCxSz96M.png",
+    "src": "resources/images/img1.png"
+  },
+  "resources/images/img2.webp": {
+    "file": "assets/img2-RbsnDpA7.webp",
+    "src": "resources/images/img2.webp"
+  },
+  "resources/images/img3.webp": {
+    "file": "assets/img3-fxV4ODu7.webp",
+    "src": "resources/images/img3.webp"
+  },
+  "resources/images/img4.webp": {
+    "file": "assets/img4-xJ6XA2d3.webp",
+    "src": "resources/images/img4.webp"
+  },
+  "resources/images/img5.webp": {
+    "file": "assets/img5-vfKogQJW.webp",
+    "src": "resources/images/img5.webp"
+  },
+  "resources/images/img6.png": {
+    "file": "assets/img6-b4-8RhPD.png",
+    "src": "resources/images/img6.png"
+  },
   "resources/js/app.js": {
-    "file": "assets/app-ARot55nG.js",
+    "file": "assets/app-ZT66uXV9.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   }
