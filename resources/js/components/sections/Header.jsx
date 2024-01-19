@@ -25,11 +25,11 @@ return (
 			<div className='main-menu bg-zinc-100'>
 			<div className="container mx-auto 2xl:max-w-[1400px]">	
 				<nav className='xl:mx-16 xl:space-x-16 space-x-6 flex justify-center py-4'>
-					<NavLink className='nav-item hover:scale-110' activeClassName='active' exact to='/'>Home</NavLink>
-					<NavLink className='nav-item hover:scale-110' activeClassName='active' to='/wallet'>Album</NavLink>
-					<NavLink className='nav-item hover:scale-110' activeClassName='active' to='/plan'>Models</NavLink>
-					<NavLink className='nav-item hover:scale-110' activeClassName='active' to='/about'>About</NavLink>
-					<NavLink className='nav-item hover:scale-110' activeClassName='active' to='/contact'>Contact</NavLink>
+					<NavLink className='nav-item hover:scale-110' activeclassname='active' exact="true" to='/'>Home</NavLink>
+					<NavLink className='nav-item hover:scale-110' activeclassname='active' exact="true" to='/wallet'>Album</NavLink>
+					<NavLink className='nav-item hover:scale-110' activeclassname='active' exact="true" to='/plan'>Models</NavLink>
+					<NavLink className='nav-item hover:scale-110' activeclassname='active' exact="true" to='/about'>About</NavLink>
+					<NavLink className='nav-item hover:scale-110' activeclassname='active' exact="true" to='/contact'>Contact</NavLink>
 				</nav>
 			</div>
 			</div>
